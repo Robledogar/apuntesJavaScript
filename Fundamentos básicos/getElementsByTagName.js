@@ -10,7 +10,7 @@ window.onload = function() {
 	div[1].style.margin = "20px";
 
 	var div3 = div[2];
-	div3.innerHTML = "<mark>Contenido cambiado</mark>";
+	div3.innerHTML = "<mark>Contenido cambiado</mark>";//contenido cambiado y subrayado
 
 
 }
