@@ -1,0 +1,8 @@
+#contenedor {
+	width: 250px;
+	height: 250px;
+	background: black;
+	position: absolute;
+	left: 250px;
+	top: 300px;
+}
