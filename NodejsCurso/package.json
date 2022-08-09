@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodejscurso",
+  "version": "1.0.0",
+  "description": "un curso de Node",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "curso"
+  ],
+  "author": "Jose",
+  "license": "ISC"
+}
