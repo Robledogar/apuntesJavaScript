@@ -1,0 +1,20 @@
+div {
+	background-color: black;
+	padding: 20px;
+}
+
+h2 {
+	color: #fff;
+}
+
+p {
+	color: white;
+}
+
+p:hover {
+	background: red;
+}
+
+
+
+   
